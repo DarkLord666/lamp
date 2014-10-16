@@ -11,3 +11,10 @@ Lamp interactive Installer
 | Other system programs (vim,mc,etc.) |
 +-------------------------------------+
 ```
+
+Usage:
+====
+
+1. Download install.bin
+2. chmod +x install.bin
+3. ./install.bin
