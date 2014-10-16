@@ -2,7 +2,6 @@ About
 ====
 
 Designed for Debian OS only! (at the moment)
-=====
 
 ```bash
 +-------------------------------------+
