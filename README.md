@@ -33,9 +33,8 @@ apt-get -q -y install mc vim update-sun-jre subversion lftp rar zip unzip sudo a
 ```
 or any other part of lamp-install.sh
 
-3. Perform 
+3.Perform
 ```bash
 $ cat lamp-install.sh files.tar.gz > install.bin
 ```
-
-4. Run ./install.bin
+4.Run ./install.bin
